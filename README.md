@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
-* [ ] UI animations
+* [x] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
@@ -27,17 +27,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://giphy.com/embed/hV1cYCTZ7jlI0Kk5xv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest problem was that I downloaded the latest version of XCode and therefore was unable to follow along with the tutorial. I had a few problems with git here and there, and also with the keyboard which I was able to fix by using the Hardwares tab for the simulator. Other than that the tutorials were very informative and easy to follow along. I wanted to animate the segment controls too, but unfortunately could not figure out how to since it wasn't tintColor or backgroundColor and I wasn't able to find any help online.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2019 Regina Bass
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
